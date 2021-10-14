@@ -24,7 +24,7 @@ Nesse gráfico plotado no código, o eixo x é febre e o eixo y é fadiga. Obser
 ![image](https://user-images.githubusercontent.com/79197619/137368866-120866b7-411d-44bf-90c8-757f729e7cbd.png)
 
 Outro exemplo é o gráfico abaixo, onde é possível ver que se uma pessoa está com dor de garganta moderada a forte (5 a 10 na numeração) e febre leve a moderada 
-(0 a 5) há o cluster 3, ou seja, é mais provável que ela tenha uma gripe do que com as demais doenças mencionadas.
+(0 a 5) há o cluster 3, ou seja, é mais provável que ela tenha um resfriado do que com as demais doenças mencionadas.
 
 ![image](https://user-images.githubusercontent.com/79197619/137370421-56d5d134-ffb0-4fb7-94fa-221891c6d7f3.png)
 
