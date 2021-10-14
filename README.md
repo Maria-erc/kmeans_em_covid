@@ -15,3 +15,13 @@ Por exemplo: febre 6,5; fadiga 5; mal-estar 9; dor de garganta 0. Observando ess
 
 ## Resultado
 O modelo K-means conseguiu fazer uma classificação satisfatória das instâncias de treinamento. Pode-se dizer que as classes do modelo 0, 1, 2 e 3 fazem referência aos respectivos diagnósticos: rinite, gripe, covid e resfriado.
+
+Nesse gráfico plotado no código, o eixo x é febre e o eixo y é fadiga. Observa-se que quanto maior febre e maior fadiga há o cluster 2, ou seja, indica que são características de sintomas mais prováveis da doença covid.
+
+![image](https://user-images.githubusercontent.com/79197619/137368866-120866b7-411d-44bf-90c8-757f729e7cbd.png)
+
+Outro exemplo é o gráfico abaixo, onde é possível ver que se uma pessoa está com dor de garganta moderada a forte (5 a 10 na numeração) e febre leve a moderada 
+(0 a 5) há o cluster 3, ou seja, é mais provável que ela tenha uma gripe do que com as demais doenças mencionadas.
+
+![image](https://user-images.githubusercontent.com/79197619/137370421-56d5d134-ffb0-4fb7-94fa-221891c6d7f3.png)
+
