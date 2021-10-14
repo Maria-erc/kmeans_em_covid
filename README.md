@@ -10,6 +10,9 @@ O banco de dados é composto por 5 colunas: febre, fadiga, mal-estar, dor de gar
 
 Esses sintomas são figurativos, mas possuem certa aproximação com a realidade. Cada sintoma possui um número, que é a classificação da intensidade do sintoma em uma escala de 0 a 10. Assim, com base nesses números desses 4 sintomas foi determinado o diagnóstico. Para a criação desses números fictícios teve-se um estudo aprofundado dos sintomas e da intensidade dos sintomas de cada uma dessas doenças.
 
+![image](https://user-images.githubusercontent.com/79197619/137371580-74c2a8c7-2249-41f7-be09-ab086a3c35e4.png)
+
+
 
 Por exemplo: febre 6,5; fadiga 5; mal-estar 9; dor de garganta 0. Observando esses números, analisa-se que são características muito mais comuns ao vírus covid 19 do que nas outras 3 doenças, logo rotulou-se essa instância como com diagnóstivo de covid. Assim foi feito em cada uma das isntâncias, até formar todo o dataframe que foi usado de treinamento para o modelo K-means.
 
